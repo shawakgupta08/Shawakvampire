@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shawakvampire
+- 👋 Hi, I’m @Shawak Gupta
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..Btech student 
 - 💞️ I’m looking to collaborate on ...data scientist
